@@ -12,3 +12,7 @@
 - self implementation of notes app with a twist
 - all of the above 
 - added feature: Soft Delete feature
+
+## server variation 4
+- all of the above features
+- added rate global-ratelimiting(10 requests) and auth-ratelimiting(5 requests)
